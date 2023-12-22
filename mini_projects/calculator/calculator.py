@@ -1,5 +1,6 @@
 def main():
- x = int(input("What's X?: "))
+ # x = int(input("What's X?: "))
+ x = input("What's X?: ")
  print('X square is', square(x))
 
 
